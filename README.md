@@ -2,7 +2,7 @@
 <img src="https://github.com/idiotHP/idiotHP/blob/main/ezgif.com-gif-maker.gif"/>
 </div>  
   
-### <div align="center">I'm Ack-Pyung🚀</div>  
+### <div align="center">I'm Ack-Pyung a.k.a Yellow Iverson🚀</div>  
   
 - 🔭 I’m currently working on Ammonite Culture☠️    
   
