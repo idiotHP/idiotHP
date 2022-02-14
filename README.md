@@ -2,19 +2,6 @@
 <img src="https://github.com/idiotHP/idiotHP/blob/main/ezgif.com-gif-maker.gif"/>
 </div>  
   
-### <div align="center">🤓I'm Ack-Pyung a.k.a Yellow Iverson🚀</div>  
-  
-- 🔭 I’m currently working on Ammonite Culture☠️    
-  
-
-- 🌱 I’m currently learning how to develop a Mobile App.📱  
-  
-
-- ⚡ Fun fact: I'm an idiot.😌   
-
-
-- 💭 I will be the famous, famous rapper.🎤 Then I’m livin’ better life, better life.😎
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idiotHP&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
